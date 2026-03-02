@@ -7,7 +7,7 @@
 (scope) @keyword
 (type) @keyword
 (flow_ifs) @keyword
-(instruction) @keyword
+(instruction (identifier) @keyword (expression) @variable)
 (flow_instr) @keyword
 (flow_calls) @keyword
 (operand) @operator

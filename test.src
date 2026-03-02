@@ -6,6 +6,14 @@ Infbox "Test"
 Local Integer A, Bs
 
 Call TESTCALL(A,B) From SUBPRG
+Read [F:SOH]SOH0 = TESTSOHNUM
+TBPAR(1) = "string" : TBVA(1) =  [M:SIH1]SALFCY
+TBPAR(2) = "string" : TBVA(2) =  [M:SIH2]SALFCY
+TBPAR(3) = "string" : TBVA(DBNUM) =  [M:SIH3]SALFCY
+TBPAR(3) = "string" : TBVA(TBNUM) =  [M:SIH3]SALFCY
+TBPAR(3) = "string" : TBVA(TBNUM) =  [M:SIH3]SALFCY
+
+TBVA(TBNUM) =  [M:SIH3]SALFCY
 
 A += B
 

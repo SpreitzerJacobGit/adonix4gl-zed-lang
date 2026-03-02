@@ -8,4 +8,4 @@ repository = "https://github.com/SpreitzerJacobGit/adonix4gl-zed-lang"
 
 [grammars.adonix4gl]
 repository = "https://github.com/SpreitzerJacobGit/tree-sitter-adonix4gl"
-rev = "bed2780b672ef303ec878a23de48c56f4385d3ce"
+rev = "e3455e72c52517ece1ede5016d7b376d25a0df9f"
