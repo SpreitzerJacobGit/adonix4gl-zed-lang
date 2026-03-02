@@ -4,6 +4,7 @@
 
 (comment) @comment
 
+(instruction_keyword) @keyword
 (scope) @keyword
 (type) @keyword
 (flow_ifs) @keyword

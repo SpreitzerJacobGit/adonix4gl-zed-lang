@@ -17,6 +17,11 @@ TBVA(TBNUM) =  [M:SIH3]SALFCY
 
 A += B
 
+TEST = string$(A=B, "TEST", "TEST2")
+Infbox num$(VAR1 - VAR2), MYVAR
+Infbox(num$(1))
+
+
 Return
 
 $LABEL1
