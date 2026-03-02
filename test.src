@@ -1,0 +1,29 @@
+# Comment
+$ACTION
+Local File SORDER [SOH]
+Infbox "Test"
+
+Local Integer A, Bs
+
+Call TESTCALL(A,B) From SUBPRG
+
+A += B
+
+Return
+
+$LABEL1
+
+If A=B
+Else
+Endif
+
+Return
+
+Subprog TESTSUBRPG(P1,P2)
+
+End
+##########################
+# Desc
+###########################
+Funprog TESTRUNG()
+End 1

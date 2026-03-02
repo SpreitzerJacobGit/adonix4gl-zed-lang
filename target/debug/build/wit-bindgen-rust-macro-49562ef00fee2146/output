@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/home/jspreitzer/.local/share/zed/extensions/installed/adonix4gl-lang/target/debug/build/wit-bindgen-rust-macro-49562ef00fee2146/out

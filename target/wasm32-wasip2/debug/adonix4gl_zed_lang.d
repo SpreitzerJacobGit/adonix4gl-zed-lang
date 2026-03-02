@@ -1,0 +1,1 @@
+/home/jspreitzer/Documents/Zed-Language-Extension/adonix4gl-zed-lang/target/wasm32-wasip2/debug/adonix4gl_zed_lang.wasm: /home/jspreitzer/Documents/Zed-Language-Extension/adonix4gl-zed-lang/src/adonix4gl.rs
